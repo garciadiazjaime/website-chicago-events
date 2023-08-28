@@ -19,7 +19,7 @@ export default function Home() {
 
   useEffect(() => {
     TagManager.initialize({
-      gtmId: "GTM-MVXQBM8V",
+      gtmId: "GTM-55GMDFF4",
     });
   });
 

@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   title: "Discover Exciting Chicago Events: Music, Arts, Festivals & More",
   description:
     "Explore a diverse array of Chicago events, from vibrant music festivals to captivating art exhibitions. Stay updated on the latest happenings and immerse yourself in the city's dynamic culture.",
+  other: {
+    canonical: "https://chicago-events.mintitmedia.com/",
+  },
 };
 
 export default function RootLayout({

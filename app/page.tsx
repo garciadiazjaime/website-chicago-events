@@ -48,10 +48,10 @@ export default function Home() {
       </section>
       <footer style={{ ...styles.container, marginTop: 60 }}>
         <p>
-          Discover exciting Chicago events that showcase the city's vibrant
-          culture. From music festivals to art exhibitions, there's something
-          for everyone. Stay informed about upcoming events and make the most of
-          your time in Chicago.
+          Discover exciting Chicago events that showcase the city&apos;s vibrant
+          culture. From music festivals to art exhibitions, there&apos;s
+          something for everyone. Stay informed about upcoming events and make
+          the most of your time in Chicago.
         </p>
       </footer>
     </main>

@@ -16,7 +16,7 @@ export const events = [
     description: ["GOLDEN DAGGER WELCOMES: BILLY THE KID w/ A Haunted House"],
   },
   {
-    title: "Fitzgeralds Nightclub & Sidebar    ",
+    title: "Fitzgeralds Nightclub & Sidebar",
     description: [
       "FITZGERALDS NIGHTCLUB, PATIO, & SIDEBAR are the greatest destinations for Live Music, Good Drinks, and Barbecue on planet earth. Many of our events are free and open to the public and this reservation platform is the best way in. For ticketed concerts visit fitzgeraldsnightclub.com     ",
     ],
